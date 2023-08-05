@@ -1,0 +1,17 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100px;
+    border-radius: 50px;
+    text-decoration: underline ;
+    
+    
+  
+}
+
+.col{
+
+    border-radius: unset;
+    background: border-box;
+    background: -moz-repeating-linear-gradient(100px);
+
+}
